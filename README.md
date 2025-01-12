@@ -4,7 +4,7 @@ Este es un proyecto **personal** desarrollado para aprender y poner en práctica
 
 ## Descripción
 
-Este proyecto consiste en una aplicación web que tiene un **backend** construido con **Node.js** y **Express.js**, y un **frontend** desarrollado con **React.js**. El objetivo es crear una interfaz interactiva y dinámica que se comunique con un servidor **XAMPP** para procesar y mostrar datos.
+Este proyecto consiste en una aplicación web que tiene un **backend** construido con **Node.js** y **Express.js**, y un **frontend** desarrollado con **React.js**. El objetivo es crear una interfaz interactiva y dinámica que se comunique con un servidor integrado para procesar y mostrar datos.
 
 ## Especificaciones
 
@@ -29,7 +29,6 @@ Este proyecto consiste en una aplicación web que tiene un **backend** construid
 ### Requisitos
 - **Node.js**: Version 14 o superior.
 - **npm** o **yarn**: Para la gestión de dependencias.
-- **XAMPP**:Servidor Local
 
 ### Instalación
 
