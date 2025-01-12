@@ -36,4 +36,4 @@ Este proyecto consiste en una aplicación web que tiene un **backend** construid
 #### Backend:
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/BenjaminRRojas/Proyecto_Web
